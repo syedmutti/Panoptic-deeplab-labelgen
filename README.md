@@ -1,2 +1,2 @@
 # Panoptic-deeplab-labelgen
-Scripts to generate Additional instance labels for Panoptic-deeplab
+Scripts to generate Panoptic-deeplab like instance labels for Panoptic-deeplab
