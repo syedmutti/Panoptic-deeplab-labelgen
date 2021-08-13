@@ -2,5 +2,4 @@
 Scripts to generate Panoptic-deeplab like instance labels for Panoptic-deeplab
 
 
-![](distributions.png)  
-![](offset_vectors.png)
+![](distributions.png)  ![](offset_vectors.png)
